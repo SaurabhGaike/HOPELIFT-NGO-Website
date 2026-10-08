@@ -2,7 +2,7 @@
 
 A modern, responsive **NGO landing page** built to present an organization's mission, projects, impact, volunteer opportunities, donation options, testimonials, gallery, and latest updates.
 
-🔗 **Live Demo:** https://saurabhgaike.github.io/DemoNGO/
+🔗 **Live Demo:** https://saurabhgaike.github.io/HOPELIFT-NGO-Website
 
 ---
 
@@ -137,7 +137,7 @@ The current project is primarily contained in a single `index.html` file, includ
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SaurabhGaike/DemoNGO.git
+git clone https://saurabhgaike.github.io/HOPELIFT-NGO-Website.git
 ```
 
 ### 2. Open the project
@@ -160,7 +160,7 @@ This project is deployed using **GitHub Pages**.
 
 ### Live Website
 
-(https://saurabhgaike.github.io/HOPELIFT-NGO-Website/)
+https://saurabhgaike.github.io/HOPELIFT-NGO-Website
 
 ---
 
@@ -215,7 +215,7 @@ Interested in Software Development, Web Development, Java, DSA, and React.
 ### Connect
 
 - GitHub: https://github.com/SaurabhGaike
-- LinkedIn: (https://www.linkedin.com/in/saurabhgaike/)
+- LinkedIn: https://www.linkedin.com/in/saurabhgaike
 
 ---
 
