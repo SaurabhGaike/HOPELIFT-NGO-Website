@@ -160,7 +160,7 @@ This project is deployed using **GitHub Pages**.
 
 ### Live Website
 
-https://saurabhgaike.github.io/DemoNGO/
+(https://saurabhgaike.github.io/HOPELIFT-NGO-Website/)
 
 ---
 
@@ -215,7 +215,7 @@ Interested in Software Development, Web Development, Java, DSA, and React.
 ### Connect
 
 - GitHub: https://github.com/SaurabhGaike
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: (https://www.linkedin.com/in/saurabhgaike/)
 
 ---
 
